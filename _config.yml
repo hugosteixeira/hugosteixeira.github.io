@@ -57,3 +57,70 @@ topics:
   - name: JavaScript
     web_url: https://github.com/topics/javascript
     image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/javascript/javascript.png
+
+  - name: Arduino
+    web_url: https://github.com/topics/arduino
+    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/arduino/arduino.png
+
+  - name: AWS
+    web_url: https://github.com/topics/aws
+    image_url: https://raw.githubusercontent.com/github/explore/fbceb94436312b6dacde68d122a5b9c7d11f9524/topics/aws/aws.png
+
+  - name: Django
+    web_url: https://github.com/topics/django
+    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/django/django.png
+
+  - name: Docker
+    web_url: https://github.com/topics/docker
+    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/docker/docker.png
+
+  - name: Flask
+    web_url: https://github.com/topics/flask
+    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/flask/flask.png
+  
+  - name: GIT
+    web_url: https://github.com/topics/git
+    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/git/git.png
+  
+  - name: Gulp
+    web_url: https://github.com/topics/gulp
+    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/gulp/gulp.png
+
+  - name: HTML
+    web_url: https://github.com/topics/html
+    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/html/html.png
+
+  - name: Linux
+    web_url: https://github.com/topics/linux
+    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/linux/linux.png
+
+  - name: MongoDB
+    web_url: https://github.com/topics/mongodb
+    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/mongodb/mongodb.png
+    
+  - name: MySQL
+    web_url: https://github.com/topics/mysql
+    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/mysql/mysql.png
+  
+  - name: Node.JS
+    web_url: https://github.com/topics/nodejs
+    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/nodejs/nodejs.png
+
+  - name: PostgreSQL
+    web_url: https://github.com/topics/postgresql
+    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/postgresql/postgresql.png
+
+  - name: REST-API
+    web_url: https://github.com/topics/rest-api
+
+  - name: TypeScript
+    web_url: https://github.com/topics/typescript
+    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/typescript/typescript.png
+
+  - name: Ubuntu
+    web_url: https://github.com/topics/ubuntu
+    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/ubuntu/ubuntu.png
+  
+  - name: Vue.JS
+    web_url: https://github.com/topics/vue
+    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/vue/vue.png
